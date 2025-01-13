@@ -1,4 +1,6 @@
 -- Netflix Analysis Project --
+--joseph sebastian 
+
 CREATE TABLE netflix
 (
 	show_id VARCHAR(7),
